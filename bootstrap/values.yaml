@@ -1,6 +1,6 @@
 # Global Parameters (REQUIRED)
 # Add your domain (REQUIRED)
-domain: "" 
+domain: "try2click4demotest.com" 
 # Application specific
 traefik:
   enable: true
